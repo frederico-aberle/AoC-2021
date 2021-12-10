@@ -1,4 +1,4 @@
-file = open("input9.txt").read().splitlines()
+file = open("input09.txt").read().splitlines()
 
 """Part One"""
 temp = []

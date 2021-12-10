@@ -1,4 +1,4 @@
-file = open("input6.txt").readline().split(',')
+file = open("input06.txt").readline().split(',')
 file = [int(x) for x in file]
 
 """Part One"""

@@ -1,4 +1,4 @@
-file = open("input4.txt")
+file = open("input04.txt")
 
 """Input"""
 numbers = file.readline().split(",")

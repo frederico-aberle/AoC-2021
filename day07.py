@@ -1,4 +1,4 @@
-file = open("input7.txt").read().split(",")
+file = open("input07.txt").read().split(",")
 temp = sorted([int(x) for x in file])
 
 """Part One"""

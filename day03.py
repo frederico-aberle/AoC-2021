@@ -1,4 +1,4 @@
-file = open("input3.txt").read().splitlines()
+file = open("input03.txt").read().splitlines()
 
 """Part One"""
 gamma = ""

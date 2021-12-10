@@ -1,4 +1,4 @@
-file = open("input1.txt").read().splitlines()
+file = open("input01.txt").read().splitlines()
 file = [int(x) for x in file]
 
 """Part One"""

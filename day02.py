@@ -1,4 +1,4 @@
-file = open("input2.txt").read().splitlines()
+file = open("input02.txt").read().splitlines()
 
 """Part One"""
 horizontal = 0

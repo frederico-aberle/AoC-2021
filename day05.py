@@ -1,4 +1,4 @@
-file = open("input5.txt").read().splitlines()
+file = open("input05.txt").read().splitlines()
 
 """Input"""
 coordinates = []

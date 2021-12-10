@@ -1,4 +1,4 @@
-file = open("input8.txt").readlines()
+file = open("input08.txt").readlines()
 
 """Part One"""
 result = 0
